@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "627567149039",
+    "firebase_url": "https://fcm-test-dfa95.firebaseio.com",
+    "project_id": "fcm-test-dfa95",
+    "storage_bucket": "fcm-test-dfa95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627567149039:android:4e31c1a6b972c443",
+        "android_client_info": {
+          "package_name": "com.malviya.firebasedatabasetestdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627567149039-64k51sbmlh1isrn1chnebdevdhm7ugvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.malviya.firebasedatabasetestdemo",
+            "certificate_hash": "8E7F6593AB3C3CD494822DF018ADC0E9B092E65F"
+          }
+        },
+        {
+          "client_id": "627567149039-bsmv9rtc25vl7d82pa75oub4prnkjb8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB09Mj3FnrnadrKkPbJ-RjQsTXtmS-GxQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627567149039-bsmv9rtc25vl7d82pa75oub4prnkjb8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
